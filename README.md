@@ -4,6 +4,7 @@ The VID Tables map the Hex value needed to program the SYSCON EEPROM to select t
 SYSCON EEPROM Addresses these apply to:
 
 Sherwood = 0x51
+
 Mullion = 0x3111
     
 Note: The default value is FF on retail consoles. Writing FF to these addresss will revert RSX Core to stock voltage.
